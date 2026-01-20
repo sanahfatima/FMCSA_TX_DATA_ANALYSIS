@@ -1,0 +1,91 @@
+#Dashboard Components & Business Interpretation
+
+1. Total Trucking Companies in Texas (KPI)
+Metric: Count of DOT_NUMBER
+
+What it shows:
+Total number of registered trucking companies operating in Texas
+
+Marketing Value:
+Establishes overall market size
+Used as a denominator for penetration, saturation, and growth metrics
+
+2. City-Level Slicer & High-Density Regions
+
+Fields Used:
+CARRIER_MAILING_CITY
+DOT_NUMBER
+
+What it shows:
+Cities with the highest concentration of trucking companies
+Interactive filtering allows focus on specific metro areas (e.g., Houston, Dallas)
+
+Marketing Insights:
+High-density cities → brand awareness & competitive marketing
+Medium-density cities → lead generation & outbound campaigns
+Low-density but growing cities → early-mover opportunity
+
+3. Type of Carrier Operation
+
+Field: CARRIER_OPERATION
+
+FMCSA Definitions:
+A - OPERATION / CARRIER / INTERSTATE
+B - OPERATION / CARRIER / INTRASTATE / HAZMAT
+C - OPERATION / CARRIER / INTRASTATE / NONHAZMAT
+
+4. Fleet Size / Power Units Distribution
+
+Field: FLEETSIZE
+
+FMCSA Fleet Size Codes Explained:
+
+Code	Meaning
+A	1–2 Power Units
+B	3–5 Power Units
+C	6–10 Power Units
+D	11–20 Power Units
+E	21–50 Power Units
+F	51+ Power Units
+
+Business Interpretation:
+Majority of Texas carriers fall into Fleet Size A & B
+Market is highly fragmented and owner-operator driven
+
+Marketing Strategy:
+Fleet A–B: Google Search Ads, SMS, cold calling, startup bundles
+Fleet C–D: Email marketing, retargeting, bundled service offers
+Fleet E–F: Account-based marketing, LinkedIn, long-term contracts
+
+5. Hazmat Carriers
+
+Field: HM_IND
+
+FMCSA Definitions:
+Y – Carrier is authorized to transport hazardous materials
+N – Carrier is not authorized to transport hazardous materials
+
+Marketing Implications:
+Hazmat carriers have:
+Higher compliance burden
+Higher insurance premiums
+More regulatory complexity
+
+Targeting Strategy:
+Hazmat = premium services, compliance consulting, insurance optimization
+Non-Hazmat = volume-based, cost-sensitive offerings
+
+6. Yearly New Company Registrations in Texas
+
+Metric: Count of DOT_NUMBER by Authority Year
+What it shows:
+Long-term trend of new trucking company formation
+Sharp growth post-2010 and post-2020
+
+Business Insights:
+Market entry is cyclical and economically sensitive
+New authorities represent highest-intent marketing leads
+
+Recommended Use:
+Prioritize companies formed in the last 30–90 days
+Align ad spend with historical spikes in registrations
