@@ -26,3 +26,20 @@ What does the fleet-size distribution look like?
 How many companies handle hazardous materials?
 How has new company formation changed over time?
 Which segments represent the best marketing opportunities?
+
+## How Marketing Teams Can Use This Dashboard
+### Lead Targeting
+Filter by new authorities + small fleets + active status
+Export ranked lists for sales and outreach
+
+### Campaign Planning
+Allocate Google Ads budget to high-density & high-growth cities
+Adjust messaging based on carrier operation type
+
+### Channel Strategy
+Owner-operators → Paid search & outbound
+Mid-size fleets → Email + retargeting
+Large fleets → Enterprise sales & partnerships
+
+## Conclusion
+This dashboard transforms raw FMCSA registration data into a decision-support system for marketing strategy, lead generation, and market analysis. It enables stakeholders to move from descriptive reporting to actionable targeting, ensuring marketing resources are deployed where they generate the highest return.
